@@ -1,4 +1,14 @@
+
+
 {
-    "installCommand":"npm install --legacy-peer-deps"
-    
-}
+    "build": {
+      "installCommand": "npm install --legacy-peer-deps"
+    },
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "/"
+      }
+    ]
+  }
+  
