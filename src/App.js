@@ -6,7 +6,7 @@ import Navbar from './components/Navbar';
 import Textform from './components/Textform';
 import Alert from './components/Alert';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes, 
   Route
 } from "react-router-dom";
