@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AADITYA7028/TextUtils.git/static/css/main.31d6cfe0.css",
+    "main.js": "/AADITYA7028/TextUtils.git/static/js/main.f4945962.js",
+    "static/js/453.ed3a59d3.chunk.js": "/AADITYA7028/TextUtils.git/static/js/453.ed3a59d3.chunk.js",
+    "index.html": "/AADITYA7028/TextUtils.git/index.html",
+    "main.f4945962.js.map": "/AADITYA7028/TextUtils.git/static/js/main.f4945962.js.map",
+    "453.ed3a59d3.chunk.js.map": "/AADITYA7028/TextUtils.git/static/js/453.ed3a59d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.f4945962.js"
+  ]
+}
