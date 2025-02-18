@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/AADITYA7028/TextUtils.git/static/css/main.31d6cfe0.css",
-    "main.js": "/AADITYA7028/TextUtils.git/static/js/main.659f650a.js",
-    "static/js/453.ed3810f9.chunk.js": "/AADITYA7028/TextUtils.git/static/js/453.ed3810f9.chunk.js",
+    "main.js": "/AADITYA7028/TextUtils.git/static/js/main.1bfea71e.js",
+    "static/js/453.ed3a59d3.chunk.js": "/AADITYA7028/TextUtils.git/static/js/453.ed3a59d3.chunk.js",
     "index.html": "/AADITYA7028/TextUtils.git/index.html",
-    "main.659f650a.js.map": "/AADITYA7028/TextUtils.git/static/js/main.659f650a.js.map",
-    "453.ed3810f9.chunk.js.map": "/AADITYA7028/TextUtils.git/static/js/453.ed3810f9.chunk.js.map"
+    "main.1bfea71e.js.map": "/AADITYA7028/TextUtils.git/static/js/main.1bfea71e.js.map",
+    "453.ed3a59d3.chunk.js.map": "/AADITYA7028/TextUtils.git/static/js/453.ed3a59d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.659f650a.js"
+    "static/js/main.1bfea71e.js"
   ]
 }
